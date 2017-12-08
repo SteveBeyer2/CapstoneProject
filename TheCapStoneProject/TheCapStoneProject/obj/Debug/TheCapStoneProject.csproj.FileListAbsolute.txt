@@ -1,0 +1,7 @@
+C:\Users\Steve440\Desktop\TheCapStoneProject\TheCapStoneProject\bin\Debug\TheCapStoneProject.exe.config
+C:\Users\Steve440\Desktop\TheCapStoneProject\TheCapStoneProject\bin\Debug\TheCapStoneProject.exe
+C:\Users\Steve440\Desktop\TheCapStoneProject\TheCapStoneProject\bin\Debug\TheCapStoneProject.pdb
+C:\Users\Steve440\Desktop\TheCapStoneProject\TheCapStoneProject\obj\Debug\TheCapStoneProject.csproj.CoreCompileInputs.cache
+C:\Users\Steve440\Desktop\TheCapStoneProject\TheCapStoneProject\obj\Debug\TheCapStoneProject.exe
+C:\Users\Steve440\Desktop\TheCapStoneProject\TheCapStoneProject\obj\Debug\TheCapStoneProject.pdb
+C:\Users\Steve440\Desktop\TheCapStoneProject\TheCapStoneProject\obj\Debug\TheCapStoneProject.csprojResolveAssemblyReference.cache
